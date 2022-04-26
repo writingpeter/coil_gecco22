@@ -3,7 +3,7 @@ README
 Code for the paper entitled "COIL: Constrained Optimization in Learned Latent Space. Learning Representations for Valid Solutions."
 
 Please cite:
-Peter J. Bentley, Soo Ling Lim, Adam Gaier and Linh Tran (2022). COIL: Constrained Optimization in Learned Latent Space. Learning Representations for Valid Solutions. In Workshop on Enhancing Generative Machine Learning with Evolutionary Computation. GECCO'22: Genetic and Evolutionary Computation Conference, Companion Volume, ACM.
+Peter J Bentley, Soo Ling Lim, Adam Gaier and Linh Tran. 2022. COIL: Constrained Optimization in Workshop on Learned Latent Space: Learning Representations for Valid Solutions. In Genetic and Evolutionary Computation Conference Companion (GECCO ’22 Companion). ACM, Boston, USA.
 
 
 Top-level directory
